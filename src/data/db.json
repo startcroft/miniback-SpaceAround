@@ -5,14 +5,16 @@
             "name": "MOON",
             "description": "See our planet as you’ve never seen it before. A perfect relaxing trip away to help regain perspective and come back refreshed. While you’re there, take in some history by visiting the Luna 2 and Apollo 11 landing sites.",
             "distance": "384,400 km",
-            "time": "3 days"
+            "time": "3 days",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1684941707/image-moon_juzvgf.png"
         },
         {
             "id": 2,
             "name": "MARS",
             "description": "Don’t forget to pack your hiking boots. You’ll need them to tackle Olympus Mons, the tallest planetary mountain in our solar system. It’s two and a half times the size of Everest!",
             "distance": "225 MIL. km",
-            "time": "9 months"  
+            "time": "9 months",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1684941713/image-mars_uns4hg.png" 
         
         },
         {
@@ -20,7 +22,8 @@
             "name": "EUROPA",
             "description": "The smallest of the four Galilean moons orbiting Jupiter, Europa is a winter lover’s dream. With an icy surface, it’s perfect for a bit of ice skating, curling, hockey, or simple relaxation in your snug wintery cabin.",
             "distance": "628 MIL. km",
-            "time": "3 years"  
+            "time": "3 years",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1684941717/image-europa_ouozue.png" 
         
         },
         {
@@ -28,7 +31,8 @@
             "name": "TITAN",
             "description": "The only moon known to have a dense atmosphere other than Earth, Titan is a home away from home (just a few hundred degrees colder!). As a bonus, you get striking views of the Rings of Saturn.",
             "distance": "1.6 BIL. km",
-            "time": "7 years"
+            "time": "7 years",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1684941700/image-titan_yfull5.png"
         
         }
 
@@ -39,18 +43,21 @@
         {
             "id": 1,
             "name": "LAUNCH VEHICLE",
-            "description": "A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond. Our WEB-X carrier rocket is the most powerful in operation. Standing 150 metres tall, it's quite an awe-inspiring sight on the launch pad!"
+            "description": "A launch vehicle or carrier rocket is a rocket-propelled vehicle used to carry a payload from Earth's surface to space, usually to Earth orbit or beyond. Our WEB-X carrier rocket is the most powerful in operation. Standing 150 metres tall, it's quite an awe-inspiring sight on the launch pad!",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1684941883/image-launch-vehicle-portrait_zritcv.jpg"
 
         },
         {
             "id": 2,
             "name": "SPACEPORT",
-            "description": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch."
+            "description": "A spaceport or cosmodrome is a site for launching (or receiving) spacecraft, by analogy to the seaport for ships or airport for aircraft. Based in the famous Cape Canaveral, our spaceport is ideally situated to take advantage of the Earth’s rotation for launch.",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1684941902/image-spaceport-portrait_v8e71a.jpg"
         },
         {
             "id": 3,
             "name": "SPACE CAPSULE",
-            "description": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained."
+            "description": "A space capsule is an often-crewed spacecraft that uses a blunt-body reentry capsule to reenter the Earth's atmosphere without wings. Our capsule is where you'll spend your time during the flight. It includes a space gym, cinema, and plenty of other activities to keep you entertained.",
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1684941895/image-space-capsule-portrait_ntcd9c.jpg"
         }
     ],
 
