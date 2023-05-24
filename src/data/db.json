@@ -60,32 +60,28 @@
             "rol": "Commander",
             "name": "Douglas Hurley",
             "description": "Douglas Gerald Hurley is an American engineer, former Marine Corps pilot and former NASA astronaut. He launched into space for the third time as commander of Crew Dragon Demo-2.",
-            "image": "blob:https://makaia-my.sharepoint.com/662bf8e6-5770-4d1f-bea8-4b8a328a60a4",
-            "robin": "Hola Santi, si actualizó"
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1684940618/image-douglas-hurley_br1yrc.png"
         },
         {
             "id": 2,
             "rol": "Mission Specialist",
             "name": "MARK SHUTTLEWORTH",
             "description": "Mark Richard Shuttleworth is the founder and CEO of Canonical, the company behind the Linux-based Ubuntu operating system. Shuttleworth became the first South African to travel to space as a space tourist.",
-            "image": "blob:https://makaia-my.sharepoint.com/eb56a43a-dfa9-48ce-8073-41ff48701555",
-            "robin": "Hola Santi, si actualizó"
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1684940613/image-mark-shuttleworth_ynf6u5.png"
         },
         {
             "id": 3,
             "rol": "PILOT",
             "name": "Victor Glover",
             "description": "Pilot on the first operational flight of the SpaceX Crew Dragon to the International Space Station. Glover is a commander in the U.S. Navy where he pilots an F/A-18.He was a crew member of Expedition 64, and served as a station systems flight engineer. ",
-            "image": "https://southcentralus1-mediap.svc.ms/transform/thumbnail?provider=spo&inputFormat=png&cs=fFNQTw&docid=https%3A%2F%2Fmakaia-my.sharepoint.com%3A443%2F_api%2Fv2.0%2Fdrives%2Fb!pHMaEJJFGE6APq-ucNaeRkfabKWyzh5Oujdv51iLYXtgn0x5alXYRJWndspysbld%2Fitems%2F01RG7JYSPHKTJICNJOU5B2DGUBLWQ37BHL%3Fversion%3DPublished&access_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvbWFrYWlhLW15LnNoYXJlcG9pbnQuY29tQDBhNzI2YzNlLTI5YzItNDhjMS05ZDNlLWU4OGVjNjUxYzQyMCIsImlzcyI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsIm5iZiI6IjE2ODQ5Mjk2MDAiLCJleHAiOiIxNjg0OTUxMjAwIiwiZW5kcG9pbnR1cmwiOiJaeVlNeG1WQnArTmJwcU9OMG1jQzFTT1hEK1l4eTVQSDEwRWc0cnRrcWJvPSIsImVuZHBvaW50dXJsTGVuZ3RoIjoiMTE2IiwiaXNsb29wYmFjayI6IlRydWUiLCJ2ZXIiOiJoYXNoZWRwcm9vZnRva2VuIiwic2l0ZWlkIjoiTVRBeFlUY3pZVFF0TkRVNU1pMDBaVEU0TFRnd00yVXRZV1poWlRjd1pEWTVaVFEyIiwibmFtZWlkIjoiMCMuZnxtZW1iZXJzaGlwfHVybiUzYXNwbyUzYWFub24jYzVlMGQxNzAxYWQ2ZGFjNDcxNTRkMzk2Yzg1N2Y3MTY2OTE1ZDM4YTdmZWRhMDYzNWVmN2NlYzMyYmIwYmUwYiIsIm5paSI6Im1pY3Jvc29mdC5zaGFyZXBvaW50IiwiaXN1c2VyIjoidHJ1ZSIsImNhY2hla2V5IjoiMGguZnxtZW1iZXJzaGlwfHVybiUzYXNwbyUzYWFub24jYzVlMGQxNzAxYWQ2ZGFjNDcxNTRkMzk2Yzg1N2Y3MTY2OTE1ZDM4YTdmZWRhMDYzNWVmN2NlYzMyYmIwYmUwYiIsInNoYXJpbmdpZCI6IlIzRGE2QjdxcWs2QnIwKzBhelFVQWciLCJ0dCI6IjAiLCJ1c2VQZXJzaXN0ZW50Q29va2llIjoiMiIsImlwYWRkciI6IjguMjQyLjEyNi4xNzkifQ.cUI2bWlscGtoYWVzQSttU29RMHVlNWxBR1Y3SG9PeEJ4ZUp6Z2N2eWpOZz0&cTag=%22c%3A%7B81D254E7-2E35-43A7-A19A-815DA1BF84EB%7D%2C1%22&encodeFailures=1&width=462&height=542&srcWidth=549&srcHeight=645",
-            "robin": "Hola Santi, si actualizó"
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1684940567/image-victor-glover_djlfsa.png"
         },
         {
             "id": 4,
             "rol": "Flight Engineer",
             "name": "Anousheh Ansari",
             "description": "Anousheh Ansari is an Iranian American engineer and co-founder of Prodea Systems. Ansari was the fourth self-funded space tourist, the first self-funded woman to fly to the ISS, and the first Iranian in space. ",
-            "image": "blob:https://makaia-my.sharepoint.com/2bcfd5ea-7903-4060-812d-2eeff2e46069",
-            "robin": "Hola Santi, si actualizó"
+            "image": "https://res.cloudinary.com/dumnucrl0/image/upload/v1684940614/image-anousheh-ansari_fvni8x.png"
         }
     ]
 }
